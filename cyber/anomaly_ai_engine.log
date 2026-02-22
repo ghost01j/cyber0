@@ -1,0 +1,6 @@
+{"alert": "VPN_OR_PROXY_DETECTED", "ip": "185.220.101.1", "username": "admin", "score": 60, "timestamp": 1771661634.264597}
+{"alert": "AI_ANOMALY_DETECTED", "event": {"type": "login", "ip": "185.220.101.1", "username": "admin", "success": false, "timestamp": 1771661634.264597, "failed_logins": 25, "requests_per_minute": 300, "data_transfer_kb": 1500}, "anomaly_score": -0.18280173377719544, "timestamp": 1771661634.4289472}
+{"alert": "VPN_OR_PROXY_DETECTED", "ip": "185.220.101.1", "username": "admin", "score": 60, "timestamp": 1771728880.5149786}
+{"alert": "AI_ANOMALY_DETECTED", "event": {"type": "login", "ip": "185.220.101.1", "username": "admin", "success": false, "timestamp": 1771728880.5149786, "failed_logins": 25, "requests_per_minute": 300, "data_transfer_kb": 1500}, "anomaly_score": -0.18280173377719544, "timestamp": 1771728880.611504}
+{"alert": "VPN_OR_PROXY_DETECTED", "ip": "185.220.101.1", "username": "admin", "score": 60, "timestamp": 1771729748.5449734}
+{"alert": "AI_ANOMALY_DETECTED", "event": {"type": "login", "ip": "185.220.101.1", "username": "admin", "success": false, "timestamp": 1771729748.5449734, "failed_logins": 25, "requests_per_minute": 300, "data_transfer_kb": 1500}, "anomaly_score": -0.18280173377719544, "timestamp": 1771729748.6269565}
